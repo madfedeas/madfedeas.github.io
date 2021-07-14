@@ -1,0 +1,7 @@
+<template>
+  <div class="bg-dark text-light">
+    <Header />
+    <Nuxt />
+    <Footer />
+  </div>
+</template>
